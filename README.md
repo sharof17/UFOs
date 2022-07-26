@@ -3,7 +3,7 @@
 The purpose of the project is to build a dynamic webpage tthat accepts user inputs and adjusts accordingly to display information about UFOs sightings. 
 
 ## Results
-The webpage UFO sightings was created. The index page of the webpage looks as follows:
+The webpage [UFO sightings](https://sharof17.github.io/UFOs/index.html) was created. The index page of the webpage looks as follows:
 
 ![website](static/images/website.png)
 
