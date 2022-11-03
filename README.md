@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of the analysis
-The purpose of the project is to build a dynamic webpage tthat accepts user inputs and adjusts accordingly to display information about UFOs sightings. 
+The purpose of the project is to build a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFOs sightings. 
 
 ## Results
 The webpage [UFO sightings](https://sharof17.github.io/UFOs/index.html) was created. The index page of the webpage looks as follows:
